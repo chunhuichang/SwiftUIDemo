@@ -1,0 +1,70 @@
+## macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+## Xcode
+DerivedData/
+build/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+*.xcodeproj/project.xcworkspace/
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/
+*.swiftpm/
+Package.resolved
+
+# Xcode user data
+xcuserdata/
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+
+## Swift Package Manager
+.build/
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+## CocoaPods (if ever added)
+Pods/
+Podfile.lock
+
+## Carthage (if ever added)
+Carthage/
+Carthage/Build/
+
+## Fastlane (optional authentication data)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+## Generated files
+*.ipa
+*.dSYM.zip
+*.dSYM
+*.xcresult
+
+## Build artifacts
+*.o
+*.linkfilelist
+*.map
+*.swp
+*.swo
+*.tmp
+
+## SwiftUI Previews
+*.plist
+*.swiftsourceinfo
+
+## Ignore per-folder build products inside your week1/week2 folders
+*/Products/
+*/Intermediates.noindex/
+*/Index/DataStore/
+
+## Optional: if you generate logs
+*.log
+
